@@ -1,0 +1,12 @@
+{
+  "endOfLine": "auto",
+  "useTabs": true,
+  "singleQuote": true,
+  "arrowParens": "always",
+  "printWidth": 150,
+  "proseWrap": "never",
+  "trailingComma": "none",
+  "tabWidth": 4,
+  "htmlWhitespaceSensitivity": "strict",
+  "vueIndentScriptAndStyle": true
+}
